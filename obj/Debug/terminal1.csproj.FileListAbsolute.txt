@@ -1,0 +1,32 @@
+D:\dotnet\terminal\terminal1\terminal1\bin\Debug\terminal1.exe.config
+D:\dotnet\terminal\terminal1\terminal1\bin\Debug\terminal1.exe
+D:\dotnet\terminal\terminal1\terminal1\bin\Debug\terminal1.pdb
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.csprojAssemblyReference.cache
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.Form1.resources
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.Properties.Resources.resources
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.csproj.GenerateResource.cache
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.csproj.CoreCompileInputs.cache
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.exe
+D:\dotnet\terminal\terminal1\terminal1\obj\Debug\terminal1.pdb
+D:\dotnet\terminal\terminal1 - Copy\terminal1\bin\Debug\terminal1.exe.config
+D:\dotnet\terminal\terminal1 - Copy\terminal1\bin\Debug\terminal1.exe
+D:\dotnet\terminal\terminal1 - Copy\terminal1\bin\Debug\terminal1.pdb
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.csprojAssemblyReference.cache
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.Form1.resources
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.Properties.Resources.resources
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.csproj.GenerateResource.cache
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.csproj.CoreCompileInputs.cache
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.exe
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.pdb
+D:\dotnet\terminal\terminal1 - Copy\terminal1\obj\Debug\terminal1.Sales.resources
+D:\dotnet\terminal\terminal1a\terminal1\bin\Debug\terminal1.exe.config
+D:\dotnet\terminal\terminal1a\terminal1\bin\Debug\terminal1.exe
+D:\dotnet\terminal\terminal1a\terminal1\bin\Debug\terminal1.pdb
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.csprojAssemblyReference.cache
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.Form1.resources
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.Properties.Resources.resources
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.Sales.resources
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.csproj.GenerateResource.cache
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.csproj.CoreCompileInputs.cache
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.exe
+D:\dotnet\terminal\terminal1a\terminal1\obj\Debug\terminal1.pdb
